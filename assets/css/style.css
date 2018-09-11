@@ -1,0 +1,87 @@
+header {
+    font-size: 50px;
+    padding: 20px;
+    background-color: orange;
+    width: fit-content;
+    color: white;
+    font-weight: bold;
+    margin: 15px;
+}
+section {
+    font-size: 20px;
+    background-color: whitesmoke;
+    color: darkgreen;
+    margin: 15px;
+    font-weight: bold;
+    width: fit-content;
+}
+p {
+    padding: 25px 0px;
+}
+img {
+    width: 215px;
+    margin: 5px;
+    height: 215px;
+}
+.redCrystal {
+    float: left;
+    width: 220px;
+    height: 220px;
+    margin: 15px;
+}
+.blueCrystal {
+    float: left;
+    width: 220px;
+    height: 220px;
+    margin: 15px;
+}
+.yellowCrystal {
+    float: left;
+    width: 220px;
+    height: 220px;
+    margin: 15px;
+}
+.purpleCrystal {
+    float: left;
+    width: 220px;
+    height: 220px;
+    margin: 15px;
+}
+#randomNumber {
+    background: green;
+    height: 130px;
+    width: 265px;
+    margin: 15px;
+    color: black;
+    font-size: 90px;
+}
+#winsAndLosses {
+    background: cornflowerblue;
+    height: 130px;
+    width: 265px;
+    margin: 15px;
+    color: black;
+    font-size: 50px;
+}
+#totalScoreIs {
+    background: teal;
+    position: absolute;
+    width: 310px;
+    height: 25px;
+    margin: 15px;
+    bottom: -115px;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+}
+#totalScore {
+    background: teal;
+    position: absolute;
+    width: 310px;
+    height: 140px;
+    margin: 15px;
+    bottom: -270px;
+    font-size: 110px;
+    color: white;
+    font-weight: bold;
+}
